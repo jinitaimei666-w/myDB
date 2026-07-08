@@ -1,5 +1,5 @@
--- Railway MySQL schema for library management system
--- Note: Database will be created automatically by Railway
+-- Library Management System Database Schema
+-- Database initialization and sample data
 
 -- Table Creation
 -- These tables are created first as other tables depend on them.
